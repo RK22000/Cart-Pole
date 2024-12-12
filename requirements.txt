@@ -1,0 +1,8 @@
+torch
+gymnasium[classic-control]
+notebook
+numpy
+pandas
+seaborn
+tqdm
+mlflow
